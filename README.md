@@ -2,7 +2,7 @@
 
 [![@davidromeror](https://img.shields.io/badge/@davidromeror-LinkedIn-blue?&logoColor=white)](https://www.linkedin.com/in/davidromeror)
 
-Cuando realiza la segmentación de clientes, se encuentra características similares en el comportamiento y las necesidades de cada uno. Posteriormente, se generalizan en grupos para satisfacer demandas con diversas estrategias:
+Cuando se realiza la segmentación de clientes, se encuentran características similares en el comportamiento y las necesidades de cada uno. Posteriormente, se generalizan en grupos para satisfacer demandas con diversas estrategias:
 
 Actividades de marketing dirigidas a grupos específicos
 Lanzamiento de características que se alinean con la demanda del cliente
