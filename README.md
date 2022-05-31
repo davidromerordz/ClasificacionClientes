@@ -1,8 +1,4 @@
-# Cluster y Clasificación
-
-
-
-## Clasificación de Clientes de Comercio
+# Clasificación de Clientes de Comercio
 
 Cuando realiza la segmentación de clientes, se encuentra características similares en el comportamiento y las necesidades de cada uno. Posteriormente, se generalizan en grupos para satisfacer demandas con diversas estrategias:
 
