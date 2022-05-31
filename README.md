@@ -8,4 +8,4 @@ Cuando se realiza la segmentación de clientes, se encuentran características s
 * Lanzamiento de características que se alinean con la demanda del cliente.
 * Desarrollo de la hoja de ruta del producto.
 
-Realizaremos Machine Lerning no supervisado con Python para generar una comprensión básica de cómo podemos segmentar datos en grupos particulares y encontrar información valiosa a partir de ellos.
+Utilizamos diferentes técnicas supervisadas y no supervisadas de Machine Learning en Python, con el fin de generar una comprensión básica de cómo podemos segmentar datos en grupos particulares y encontrar información valiosa a partir de ellos.
