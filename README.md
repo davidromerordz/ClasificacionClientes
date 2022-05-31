@@ -1,6 +1,6 @@
 # Clasificación de Clientes de Comercio
 
-<img src="https://concentrika.ucentral.edu.co/wp-content/uploads/2021/11/coderhouse-logo.png" width="250" align="right"/>
+<div align="center"><img src="https://concentrika.ucentral.edu.co/wp-content/uploads/2021/11/coderhouse-logo.png" width="225"></div>
 
 [![@davidromeror](https://img.shields.io/badge/@davidromeror-LinkedIn-blue?&logoColor=white)](https://www.linkedin.com/in/davidromeror)
 
